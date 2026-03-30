@@ -5,7 +5,7 @@ A **cross-platform**, web-based real-time object detection application using YOL
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/flask-2.3.3-green.svg)](https://flask.palletsprojects.com/)
 [![OpenCV](https://img.shields.io/badge/opencv-4.8.0-red.svg)](https://opencv.org/)
-[![License](https://img.shields.io/badge/license-YOLO-yellow.svg)](https://pjreddie.com/darknet/yolo/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -317,7 +317,9 @@ This project includes comprehensive documentation for all platforms and use case
 
 ## License
 
-This project uses YOLOv3 which is available under the YOLO license. Please refer to the original YOLO documentation for more details.
+The application source code is available under the [MIT License](LICENSE).
+
+The YOLOv3 model, configuration, and COCO class labels are separate third-party assets. Review the original [YOLOv3 documentation](https://pjreddie.com/darknet/yolo/) and the relevant model terms before redistributing model files.
 
 ## Credits
 
